@@ -5,9 +5,7 @@ My name is Ben, a fellow Aussie down under, writing code and developing software
 #### Crafting For Christ
 A Christian Minecraft Network for users worldwide. Playing Minecraft and hanging out together.
 
-[Website https://craftingforchrist.net/](https://craftingforchrist.net/)
-[Discord](https://craftingforchrist.net/discord)
-[Company Org](https://github.com/craftingforchrist)
+[Website https://craftingforchrist.net/](https://craftingforchrist.net/)  [Discord](https://craftingforchrist.net/discord)  [Company Org](https://github.com/craftingforchrist)
 
 #### ModularEnigma
 A group of developers, writing code for products that are for public and private use.
