@@ -1,14 +1,14 @@
-### Hi there 👋
+## Hi there 👋
 My name is Ben, a fellow Aussie down under, writing code and developing software.
 
-#### Major Projects
-##### Crafting For Christ
+### Major Projects
+#### Crafting For Christ
 
-##### ModularEnigma
+#### ModularEnigma
 
-#### Major Products
+### Major Products
 
-##### zander
+#### zander
 *A collection of products under 1 product (plugin, web and api)*
 
 ### Statistics
